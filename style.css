@@ -6,6 +6,10 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  margin: 20px 100px;
+}
+
 details {
   margin: 20px 100px;
   text-align: justify;
