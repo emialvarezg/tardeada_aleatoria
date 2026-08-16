@@ -28,3 +28,8 @@ p {
   margin: 20px 100px;
   text-align: center;
 }
+
+.info {
+  margin: 20px 120px;
+  text-align: justify;
+}
